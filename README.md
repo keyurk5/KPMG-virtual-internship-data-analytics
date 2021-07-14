@@ -20,10 +20,11 @@ I used RFM Analysis (Recency, Frequency, Monetary) for analyzing high valued cus
 
 Finally I created Presentation to showcase these customer segment analysis, which customer segments to target w.r.t to the factors i considered.
 
-
 ## Data Insights and Presentation -
 After customer analysis on the past transactions and customers data, I took the same factors to analyze the new customers list provided to showcase these high valued customers. Using Tableau created dashboard to provide key insights.
 
 ## Tools used -
 
 Excel, Pivot tables, Charts, Tableau
+
+![Tableau Dashboard](https://github.com/keyurk5/KPMG-virtual-internship-data-analytics/blob/main/KPMG-module-3/Data-Analysis-dashboard.png)
